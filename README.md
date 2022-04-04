@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal of this project is to leverage the decision tree implementation from the previous project to make a random forest implementation. The goal is to build the simplest possible functional random forest without concern for efficiency but with accuracy comparable to sklearn. I have created objects `RandomForestRegressor621` and `RandomForestClassifier621` as drop in replacements for sklearn's implementations. The implementation also include code to support out-of-bag (OOB) validation error estimation. 
+The goal of this project is to build decision tree and random forest from scratch using numpy. The goal is to build the simplest possible functional random forest without concern for efficiency but with accuracy comparable to sklearn. I have created objects `RandomForestRegressor621` and `RandomForestClassifier621` as drop in replacements for sklearn's implementations. The implementation also include code to support out-of-bag (OOB) validation error estimation. 
 
 ## Description
 
